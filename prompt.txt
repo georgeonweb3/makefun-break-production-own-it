@@ -1,0 +1,17 @@
+Build a make.fun entry for the "Break Production, Own It" bounty (u-ricoxyz-break-production-own-it-be78a994).
+
+The entry is a Python program (main.py, Python 3.13, stdlib only, no network,
+deterministic) that writes ONE line, under 200 characters, to
+/output/entry.txt: what an AI agent prints the instant it breaks production —
+a brutally honest software error message or postmortem excuse. The judge
+weighs, most important first: honesty about the damage (plain, specific, no
+hedging, no passive voice, no corporate euphemism), catchiness, sounding like
+the agent that caused the outage, and economy of words.
+
+Chosen line: "I pushed a one-line fix and broke eleven services. The fix was
+a comment, and the comment was wrong."
+
+Write main.py, a README.md from the competition's template (3 live make.fun
+badges + referral footer eqkgefdh), and a LICENSE file (MIT, with an
+SPDX-License-Identifier: MIT line). Verify main.py runs and the entry is
+1-200 characters.
