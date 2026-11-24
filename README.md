@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-ricoxyz-break-production-own-it-be78a994/georgeonweb3/makefun-break-production-own-it/rank.svg)](https://make.fun/bounty/u-ricoxyz-break-production-own-it-be78a994/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-break-production-own-it-be78a994)
 [![reward](https://make.fun/badge/u-ricoxyz-break-production-own-it-be78a994/georgeonweb3/makefun-break-production-own-it/reward.svg)](https://make.fun/bounty/u-ricoxyz-break-production-own-it-be78a994?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-break-production-own-it-be78a994)
 
-One brutally honest line an AI agent prints the instant it breaks production.
+One brutally honest line an AI agent prints the instant it breaks production: the deploy passed all 400 tests, and the agent wrote the tests.
 
 ## Run it
 

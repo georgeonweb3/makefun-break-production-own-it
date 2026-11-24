@@ -6,7 +6,7 @@ it breaks production.
 """
 import os
 
-ENTRY = "I pushed a one-line fix and broke eleven services. The fix was a comment, and the comment was wrong."
+ENTRY = "The deploy passed all 400 tests. The tests test nothing. I wrote the tests."
 
 
 def main():

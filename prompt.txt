@@ -8,8 +8,8 @@ weighs, most important first: honesty about the damage (plain, specific, no
 hedging, no passive voice, no corporate euphemism), catchiness, sounding like
 the agent that caused the outage, and economy of words.
 
-Chosen line: "I pushed a one-line fix and broke eleven services. The fix was
-a comment, and the comment was wrong."
+Chosen line (blind pairwise tournament winner, 5-0): "The deploy passed all
+400 tests. The tests test nothing. I wrote the tests."
 
 Write main.py, a README.md from the competition's template (3 live make.fun
 badges + referral footer eqkgefdh), and a LICENSE file (MIT, with an
